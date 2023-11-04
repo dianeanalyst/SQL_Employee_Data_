@@ -22,4 +22,20 @@ Using the CASE statement, I categorised them into three groups; Entry level, Int
 
 ![image](https://github.com/dianeanalyst/SQL_Employee_Data_/assets/120665115/cb7a2bab-5743-4c96-9f74-11a551a4bb9c)
 
-4. 
+4. Subset the table to show the distribution of male and female employees across the cities.
+
+![image](https://github.com/dianeanalyst/SQL_Employee_Data_/assets/120665115/ab1587f9-2f3d-421c-ba37-aa84e08eef11)
+
+5. What Education category has the highest employees?
+
+![image](https://github.com/dianeanalyst/SQL_Employee_Data_/assets/120665115/0122eb8f-0de1-49d8-87e5-3a154d150d15)
+
+6. Select the table to show the city with the highest and lowest earners
+
+![image](https://github.com/dianeanalyst/SQL_Employee_Data_/assets/120665115/53a02ace-3d10-4541-89a9-8d1df244899f)
+
+# Conclusion
+• There are more male employees than females in all three cities. Factors such as childbirth and maternity leave could be the reason behind having less number of female employees.
+• Bangalore was seen to have the most employees in the highest and lowest payment tier.
+• Bachelors degree was the education category with the highest employees. This may be likened to the fact that a bachelors degree forms the backgroung on which all other degrees are built.
+Working on this task has helped to deepen my understanding on how to sort and filter tables as well as using aggregate functions to carry out data analysis in sql.
