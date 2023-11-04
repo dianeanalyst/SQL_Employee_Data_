@@ -36,6 +36,9 @@ Using the CASE statement, I categorised them into three groups; Entry level, Int
 
 # Conclusion
 • There are more male employees than females in all three cities. Factors such as childbirth and maternity leave could be the reason behind having less number of female employees.
+#
 • Bangalore was seen to have the most employees in the highest and lowest payment tier.
+#
 • Bachelors degree was the education category with the highest employees. This may be likened to the fact that a bachelors degree forms the backgroung on which all other degrees are built.
+#
 Working on this task has helped to deepen my understanding on how to sort and filter tables as well as using aggregate functions to carry out data analysis in sql.
