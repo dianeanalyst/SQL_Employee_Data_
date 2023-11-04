@@ -7,4 +7,4 @@ After a moment of getting familiar with the dataset, I checked to see if the dat
 1. Select the Employee table to show the data where city is Pune and age is between 32 and 40.
 ![image](https://github.com/dianeanalyst/SQL_Employee_Data_/assets/120665115/a201cdf3-0f92-479f-82f4-45c8d770fb8c)
 
-2.  Change the column name 
+2.  Change the column name m
